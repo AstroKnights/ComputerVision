@@ -4,7 +4,7 @@
 ## Codes
 
 - [Platypus – R package for object detection and image segmentation](https://github.com/maju116/platypus)
-- [https://turbustat.readthedocs.io/en/latest/tutorials/statistics/pspec_example.html](https://turbustat.readthedocs.io/en/latest/tutorials/statistics/pspec_example.html)
+- [Spatial Power Spectrum](https://turbustat.readthedocs.io/en/latest/tutorials/statistics/pspec_example.html)
 
 ## References
 
